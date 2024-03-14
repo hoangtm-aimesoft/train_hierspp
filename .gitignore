@@ -1,0 +1,9 @@
+checkpoints
+audio_data
+feature_data
+**/__pycache__/
+**/*.pyc
+**/*.pth
+hierspeech/logs
+hierspeech/speechsr24k
+hierspeech/speechsr48
